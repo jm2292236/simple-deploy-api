@@ -10,4 +10,6 @@ puts "Seeding started..."
 Property.create!(address: "1234 Main St", beds: 3, baths: 2)
 Property.create!(address: "5678 First St", beds: 4, baths: 3)
 Property.create!(address: "1357 Pacific Blvd", beds: 5, baths: 3)
+Property.create!(address: "20300 Lincoln Ave", beds: 2, baths: 1)
+Property.create!(address: "22541 3rd St", beds: 1, baths: 1)
 puts "Seeding Finished!"
