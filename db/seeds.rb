@@ -12,4 +12,7 @@ Property.create!(address: "5678 First St", beds: 4, baths: 3)
 Property.create!(address: "1357 Pacific Blvd", beds: 5, baths: 3)
 Property.create!(address: "20300 Lincoln Ave", beds: 2, baths: 1)
 Property.create!(address: "22541 3rd St", beds: 1, baths: 1)
+
+# I added this comment
+# Ups but I also nedd to commit this other message
 puts "Seeding Finished!"
